@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">dropdown</string>
+    <string-array name="batch">
+        <item>Select Batch</item>
+        <item>1912G1</item>
+        <item>1912G2</item>
+        <item>1912G3</item>
+        <item>1912G4</item>
+        <item>1912G5</item>
+    </string-array>
+</resources>
